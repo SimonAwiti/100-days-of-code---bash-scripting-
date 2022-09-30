@@ -1,2 +1,5 @@
-# 100-days-of-code---bash-scripting-
-100 days of code - bash scripting 
+# 100 Days of Code with Bash
+
+##Lessons 
+
+- 1. Basics of bash 
