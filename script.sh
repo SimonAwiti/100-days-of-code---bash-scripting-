@@ -2,16 +2,14 @@
 
 echo "This is just the first script"
 
-#This is a one line comment 
+#this is a one line comment 
 
-# trailing space can be left after the hash
+# you can also leave a trailing space 
 
 <<comment
-this is a multiline 
-comment 
-that ends here
-
+this is how 
+you 
+write a
+multiline comment
 comment
-
-echo comment 
 
