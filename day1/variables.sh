@@ -1,20 +1,17 @@
 #!/bin/bash
 
-# this is how variables are defined 
-
-<<comment Just to recap on
-multi line commenting 
-comment 
+# this is how variables are defined     
 
 # system variables start with a dollar sign for example
 
-echo $pwd 
 
-echo $bash
+echo $PWD
+
+echo $BASH
 
 #custom variables 
 
 name=simon 
 
-echon $name 
+echo my name is $name 
 
