@@ -4,5 +4,10 @@
 
 echo "what is your name"
 read name
+# introducing if function
+if [ $name ]; then
+echo "$name sounds cool"
+else
+echo "you havent supplied a name"
 
-echo "$name doesn't sound like your real name"
+fi
